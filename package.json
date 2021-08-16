@@ -1,14 +1,14 @@
 {
-  "name": "mediaplayer",
+  "name": "@eycopia/mediaplayer",
   "version": "1.0.0",
-  "description": "",
+  "description": "This library was created following the Professional Javascript on Platzi.",
   "main": "lib/MediaPlayer.js",
   "scripts": {
     "build": "tsc src/**/*.ts src/plugins/**/*.ts --outDir lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jorge Copia",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.3.5"
